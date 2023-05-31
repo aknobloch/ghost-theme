@@ -1,0 +1,1 @@
+This is the theme I use on my [personal website](aarondevelops.com). It's modified slightly from the [default Casper theme](https://github.com/TryGhost/Casper). 
