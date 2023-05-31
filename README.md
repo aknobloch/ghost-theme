@@ -1,1 +1,3 @@
-This is the theme I use on my [personal website](aarondevelops.com). It's modified slightly from the [default Casper theme](https://github.com/TryGhost/Casper). 
+This is the theme I use on my [personal website](aarondevelops.com). It's modified slightly from the [default Casper theme](https://github.com/TryGhost/Casper). To install this theme, zip the entire contents of this repository. Then, in your Ghost admin page, go to settings (gear on the bottom left), Design, and then select "Change theme" in the bottom left corner. You can then select "Upload theme" in the upper right, and select the ZIP file previously created.
+
+You may also be interested in [Setting up Prism with Ghost](https://aarondevelops.com/setting-up-prism-with-ghost/).
